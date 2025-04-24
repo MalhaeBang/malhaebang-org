@@ -1,3 +1,0 @@
-jira test
-test
-test
