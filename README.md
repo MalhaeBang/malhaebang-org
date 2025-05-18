@@ -57,12 +57,14 @@
 
 ## 🛠️ Tech Stack
 
-- **AI / NLP**: PyTorch  
-- **Data Pipeline**: Python, Selenium, Pandas  
-- **Backend**: Spring Boot, FastAPI, MongoDB, Redis  
-- **Infrastructure**: GitHub Actions, Docker, Ubuntu
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-
+- **AI / NLP**: PyTorch, Transformers, Elastic Search
+- **Data Pipeline**: Python, Selenium, Pandas, MySQL
+- **Infrastructure**: Kubernetes(k3s), Docker, Jenkins
+- **Monitoring / Alerting**: Prometheus, Grafana, Alertmanager
+- **Backend**: Spring Boot, FastAPI, Flask  
+- **Frontend**: HTML/CSS/JS, Bootstrap, Thymeleaf
+- **External APIs**: Kakao Maps API, Social Login API (Kakao, Naver, Google), Slack Webhook
+  
 ---
 
 ## 💻 Team Git Convention
