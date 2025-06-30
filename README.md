@@ -57,14 +57,14 @@
 
 ## 🛠️ Tech Stack
 
-- **AI / NLP**: PyTorch, Transformers, Elastic Search
-- **Data Pipeline**: Python, Selenium, Pandas, MySQL
-- **Infrastructure**: Kubernetes(k3s), Docker, Jenkins
-- **Monitoring / Alerting**: Prometheus, Grafana, Alertmanager
-- **Backend**: Spring Boot, FastAPI, Flask  
-- **Frontend**: HTML/CSS/JS, Bootstrap, Thymeleaf
-- **External APIs**: Kakao Maps API, Social Login API (Kakao, Naver, Google), Slack Webhook
-  
+- **AI / NLP**: PyTorch, Transformers, Elastic Search, Faiss, openAI
+- **DATA**: selenium, pandas, beautifulsoup
+- **Infrastructure**: AWS (ACM, ALB, ECR, EKS, S3), Helm, Docker
+- **Monitoring**: Prometheus, Grafana
+- **Backend Services**: Spring Boot, FastAPI, Flask, Django
+- **Data**: AWS RDS (MySQL), Elasticsearch
+- **Frontend**: Thymeleaf, HTML, CSS, JavaScript
+- **External APIs**: Kakao Maps, Social Login (Kakao, Naver, Google)  
 ---
 
 ## 💻 Team Git Convention
